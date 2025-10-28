@@ -6,7 +6,7 @@ Projet réalisé dans le cadre du module **EA113 – Électronique analogique** 
 Mattéo BINET  
 Alexandre BROMET  
 
-**Professeur :**  
+**Encadrant :**  
 Jean-Michel VINASSA
 
 **Date :** Avril 2025  
