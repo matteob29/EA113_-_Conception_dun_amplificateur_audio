@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # EA113 – Conception d’un amplificateur audio
 
 Projet réalisé dans le cadre du module **EA113 – Électronique analogique** en première année du département **Électronique** à l’**ENSEIRB-MATMECA**.
