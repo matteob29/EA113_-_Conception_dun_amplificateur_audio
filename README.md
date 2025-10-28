@@ -44,7 +44,8 @@ Le circuit se compose de **deux étages principaux** :
    - Filtre passe-haut (R3, C3) pour supprimer la composante continue.  
    - Amplificateur opérationnel TL071 configuré en montage non inverseur.  
    - Gain en tension :  
-     \\[ A_v = 1 + \\frac{R_2}{R_1} \\approx 100 \\]  
+     A_v = 1 + (R2 / R1) ≈ 100
+ 
    - Résistances normalisées : R₁ = 1 kΩ, R₂ = 100 kΩ.
 
 2. **Deuxième étage :**  
