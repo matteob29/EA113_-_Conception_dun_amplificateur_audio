@@ -139,8 +139,8 @@ Le dépôt [EA113_-_Conception_dun_amplificateur_audio](https://github.com/matte
 - [README.md](./README.md)
 
 
+---
 
-
-
-
-
+© 2025 — Mattéo BINET, Alexandre BROMET  
+Département Électronique — EA113  
+Enseirb-Matmeca — Conception d’un amplificateur audio
