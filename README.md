@@ -1,13 +1,15 @@
 from pathlib import Path
 
-# Création du texte du README formel
-readme_text = """# EA113 – Conception d’un amplificateur audio
+# EA113 – Conception d’un amplificateur audio
 
 Projet réalisé dans le cadre du module **EA113 – Électronique analogique** en première année du département **Électronique** à l’**ENSEIRB-MATMECA**.
 
 **Auteurs :**  
 Mattéo BINET  
 Alexandre BROMET  
+
+**Professeur :**  
+Jean-Michel VINASSA
 
 **Date :** Avril 2025  
 
