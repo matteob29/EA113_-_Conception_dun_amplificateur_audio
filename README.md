@@ -127,10 +127,12 @@ Le travail a également permis d’aborder des notions clés telles que la **sta
 
 Le dépôt [EA113_-_Conception_dun_amplificateur_audio](https://github.com/matteob29/EA113_-_Conception_dun_amplificateur_audio) contient les éléments suivants :
 
-├── README.md
-├── Rapport/[EA113] → générateur de son.pdf
-├── Proteus/       → Schémas et fichiers de simulation (.pdsprj)
-├── PCB/           → Layouts et typons
-├── Images/        → Rendus 3D et captures d’oscilloscopes
-└── Mesures/       → Résultats expérimentaux
+
+- [README.md](./README.md)
+- [Rapport/](./Rapport)  → générateur de son.pdf  
+- [Proteus/](./Proteus)  → Schémas et fichiers de simulation (.pdsprj)  
+- [PCB/](./PCB)          → Layouts et typons
+- [Images/](./Images)    → Rendus 3D et captures d’oscilloscopes
+- [Mesures/](./Mesures)  → Résultats expérimentaux
+
 
