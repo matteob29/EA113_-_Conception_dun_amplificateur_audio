@@ -129,11 +129,18 @@ Le travail a également permis d’aborder des notions clés telles que la **sta
 Le dépôt [EA113_-_Conception_dun_amplificateur_audio](https://github.com/matteob29/EA113_-_Conception_dun_amplificateur_audio) contient les éléments suivants :
 
 
+- [Datasheet/](./Datasheet)                → Datasheet des coomposants utilisés
+- [PCB/](./PCB)                            → Layouts et typons
+- [Proteus/](./Proteus)                    → Schémas et fichiers de simulation (.pdsprj)
+- [Rapport/](./Rapport)                    → générateur de son.pdf
+- [Schematisation/](./Schematisation)      → Schématiques du PCB
+- [Simulations/](./Simulations)            → Simulations sur Proteus
+- [TP ampli PUSH-PULL/](./TP_ampli_PUSH_PULL)            → Travaux Pratiques sur l'amplificateur Push-Pull
 - [README.md](./README.md)
-- [Rapport/](./Rapport)  → générateur de son.pdf  
-- [Proteus/](./Proteus)  → Schémas et fichiers de simulation (.pdsprj)  
-- [PCB/](./PCB)          → Layouts et typons
-- [Images/](./Images)    → Rendus 3D et captures d’oscilloscopes
-- [Mesures/](./Mesures)  → Résultats expérimentaux
+
+
+
+
+
 
 
